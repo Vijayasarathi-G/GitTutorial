@@ -2,9 +2,13 @@
 Git Tutorial
 
 git init
+
 git status
+
 git add welcome.html
+
 git remote add origin https://github.com/Vijayasarathi-G/GitTutorial.git
+
 #git commit -m "Version-1"
  
 git config --global user.email "you@example.com"
