@@ -16,7 +16,7 @@ Git Basic commands
 
 3) git add hello.html/ git add .
 
-4) git remoteadd origin https://gitlab.com/dimple.suri/projectrepo.git
+4) git remote add origin https://github.com/Vijayasarathi-G/GitTutorial.git
 
 5) git commit -m "version"
 
